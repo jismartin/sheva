@@ -8,10 +8,16 @@ Within project management, project control is a crucial phase aimed at achieving
 In this repository, you will find a set of Jupyter Notebooks to replicate the Monte Carlo simulations, the machine learning model selection and fitting, and the calculation of the Shapley values of the project activities under different simulation scenarios and prediction models using [SHAP](https://github.com/slundberg/shap) package.
 
 ## Key results
-In case you have render problems viewing notebooks in GitHub, you can use Nbviewer:
-* [sheva_monte_carlo_simulation.ipynb](https://nbviewer.org/github/jismartin/sheva/blob/main/sheva_monte_carlo_simulation.ipynb)
-* [sheva_preliminary_analysis.ipynb](https://nbviewer.org/github/jismartin/sheva/blob/main/sheva_preliminary_analysis.ipynb)
-* [sheva_shapley_analysis.ipynb](https://nbviewer.org/github/jismartin/sheva/blob/main/sheva_shapley_analysis.ipynb)
+
+The notebooks are:
+* "sheva_monte_carlo_simulation.ipynb": the Monte Carlo simulation of the two scenarios proposes in the paper.
+* "sheva_preliminary_analysis.ipynb": preliminary analysis of simulation results to verify
+* "sheva_model_selection.ipynb": the selection of the machine learning models of the regression and classification problems, and the subsequent adjustment of hyper-parameters of the chosen models.
+* "sheva_shapley_forward_analysis.ipynb": forward analysis focused on the general behavior of the models.
+* "sheva_shapley_backward_analysis.ipynb": backward analysis focused on a particular study case.
+
+
+In case you have render problems viewing some notebooks in GitHub, you can use Nbviewer:
 
 ## Licence
 Copyright (c) 2022 José Ignacio Santos Martín
