@@ -17,7 +17,7 @@ The notebooks are:
 * "sheva_shapley_backward_analysis.ipynb": backward analysis focused on a particular study case.
 
 
-In case you have render problems viewing some notebooks in GitHub, you can use Nbviewer:
+In case you have render problems viewing some notebooks in GitHub, you can use Nbviewer: nbviewer.org/github/jismartin/sheva/blob/main/<name_jupyter_notebook>.ipynb
 
 ## Licence
 Copyright (c) 2022 José Ignacio Santos Martín
