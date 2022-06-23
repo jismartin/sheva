@@ -20,7 +20,7 @@ The notebooks are:
 In case you have render problems viewing some notebooks in GitHub, you can use Nbviewer: nbviewer.org/github/jismartin/sheva/blob/main/<name_jupyter_notebook>.ipynb
 
 ## Licence
-Copyright (c) 2022 José Ignacio Santos Martín
 
-The name of this repository corresponds to the acronym for Shapley values for Earned VAlue management.
 This reposiotory is distributed under the MIT License. See LICENSE file for details.
+
+The name of this repository corresponds to the acronym for **Sh**apley values for **E**arned **VA**lue management.
